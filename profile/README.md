@@ -10,6 +10,7 @@
 |---|---|
 | 시연 영상 | [YouTube](https://youtu.be/PuvhkB27s3s) |
 | 발표자료 | [발표자료.pdf](https://github.com/EDRdog/.github/blob/main/docs/발표자료.pdf) |
+| 포스터 | [포스터.pdf](https://github.com/EDRdog/.github/blob/main/docs/포스터.pdf) |
 | 결과보고서 | [결과보고서.pdf](https://github.com/EDRdog/.github/blob/main/docs/결과보고서.pdf) |
 
 [![EDRdog 시연 영상](https://img.youtube.com/vi/PuvhkB27s3s/maxresdefault.jpg)](https://youtu.be/PuvhkB27s3s)
